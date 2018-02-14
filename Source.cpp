@@ -1,15 +1,11 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main() { 
-	double i=1;
-
+int main() {
+	char y;
+	cout << "can you pls give me a y" << endl;
+	cin >> y;
+	while (y ==y ) {
+		cout <<"<3" << endl;
 	
-	while (i = 0){ 
-	cout << " May we see your bill sir?" << endl; 
-	cin >> i;
-	cout << i*0.15 << endl; 
 	}
-
-
-system("pause");
 }
